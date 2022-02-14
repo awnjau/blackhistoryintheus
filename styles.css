@@ -3,14 +3,18 @@ body {
   background-color:MediumSeaGreen;
 }
 h1{
-  text-align:center
+  text-align:center;
+  font-size:300%;
 }
 .div-1{
   text-align:center;
   background-color:white;
 }
 .div-2{
+  font-size:160%;
+  font-family:courier;
   text-align:center;
+  width:75%;
 }
 .div-3{
   text-align:center;
