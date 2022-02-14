@@ -1,16 +1,20 @@
 body {
 
-  background-color:Green;
+  background-color:MediumSeaGreen;
 }
 h1{
-  text-align:center;
+  text-align:center
 }
 .div-1{
   text-align:center;
+  background-color:white;
 }
 .div-2{
   text-align:center;
 }
 .div-3{
+  text-align:center;
+}
+.div-4{
   text-align:center;
 }
