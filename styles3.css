@@ -6,51 +6,49 @@ h1{
   text-align:center;
 }
 img{
-  text-align:center;
-  width:128px;height:150px;
+
+  width:150px;height:auto;
 }
 #main {
-  width: 400px;
-  height: 400px;
-  border: 1px solid #c3c3c3;
-  display: inline;
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+
 }
 
 #main div {
-  width: 75%;
+  display: inline-block;
 }
 #main2 {
-  width: 400px;
-  height: 400px;
-  border: 1px solid #c3c3c3;
-  display: inline;
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+
 }
 
 #main2 div {
-  width: 75%;
-  height:auto;
+    display: inline-block;
+
 }
 #main3 {
-  width: 400px;
-  height: 400px;
-  border: 1px solid #c3c3c3;
-  display: inline;
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+
 }
 
 #main3 div {
-  width: 75%;
-  height:auto;
+  display: inline-block;
+
 }
 #main4 {
-  width: 400px;
-  height: 400px;
-  border: 1px solid #c3c3c3;
-  display: inline;
+  width: 100%;
+  height: 100%;
+  display: inline-block;
 }
 
 #main4 div {
-  width: 75%;
-  height:auto;
+display: inline-block;
 }
 
 .topnav {
@@ -87,56 +85,50 @@ img{
   font-size:150%;
   font-family:garamond;
   text-align:left;
-  width:50%;
-  background-color:sandybrown;
+  width:49%;
+  display:inline-block;
 }
 .div-3{
   font-size:150%;
   font-family:garamond;
   text-align:left;
-  width:50%;
-  border-color: white;
-  border-width:5px;
-  border-style: double;
-  border-radius: 5px;
+  width:49%;
+  display:inline-block;
 }
 .div-4{
   font-size:150%;
   font-family:garamond;
   text-align:left;
-  width:50%;
-  background-color:white;
+  width:49%;
+  display:inline-block;
 }
 .div-5{
   font-size:150%;
   font-family:garamond;
   text-align:left;
-  width:50%;
-  border-color: sandybrown;
-  border-width:5px;
-  border-style: double;
-  border-radius: 5px;
+  width:49%;
+  display:inline-block;
 }
 .div-6{
-  float: right;
-  margin-top:5%;
-  width:100%;
+  display:inline-block;
+  width:49%;
+  text-align:center;
 }
 .div-7{
-  float: right;
-  margin-top:5%;
-  width:100%;
-
+  display:inline-block;
+  width:49%;
+  text-align:center;
 }
 .div-8{
-  float: right;
-  margin-top:5%;
-  width:100%;
+  display:inline-block;
+  width:49%;
+  text-align:center;
+
 }
 .div-9{
-  float: right;
-  margin-top:5%;
-  width:100%;
+  display:inline-block;
+  width:49%;
+  text-align:center;
 }
 .div-10{
   font-size:150%;
