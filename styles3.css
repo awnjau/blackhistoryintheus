@@ -111,32 +111,32 @@ img{
   font-size:150%;
   font-family:garamond;
   text-align:left;
-  width:10%;
+  width:50%;
   border-color: sandybrown;
   border-width:5px;
   border-style: double;
   border-radius: 5px;
 }
 .div-6{
-  text-align:center;
-  width:50%;
-  margin: auto;
+  float: right;
+  margin-top:5%;
+  width:100%;
 }
 .div-7{
-  text-align:center;
+  float: right;
+  margin-top:5%;
   width:100%;
-  margin:auto;
 
 }
 .div-8{
-  text-align:center;
-  width:50%;
-  margin: auto;
+  float: right;
+  margin-top:5%;
+  width:100%;
 }
 .div-9{
-  text-align:center;
-  width:50%;
-  margin: auto;
+  float: right;
+  margin-top:5%;
+  width:100%;
 }
 .div-10{
   font-size:150%;
