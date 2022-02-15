@@ -1,12 +1,12 @@
 body{
-    background-color:MediumSeaGreen;
+    background-color:powderblue;
 }
 h1{
   text-align:center;
 }
 .topnav {
   overflow: hidden;
-  background-color:blue;
+  background-color:mistyrose;
 
 }
 
@@ -45,8 +45,9 @@ h1{
   font-size:150%;
   font-family:garamond;
   text-align:center;
-  width:75%;
+  width:50%;
   margin: auto;
+  background-color: sandybrown;
 }
 .div-4{
   font-size:150%;
@@ -59,8 +60,9 @@ h1{
   font-size:150%;
   font-family:garamond;
   text-align:center;
-  width:75%;
+  width:50%;
   margin: auto;
+  background-color: sandybrown;
 }
 .div-6{
   font-size:150%;
@@ -73,5 +75,6 @@ h1{
   font-size:150%;
   font-family:garamond;
   text-align:center;
-  width:75%;
+  width:50%;
   margin: auto;
+  background-color: sandybrown;
